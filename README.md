@@ -23,7 +23,8 @@ You can visit me at https://acomarcho.github.io/. The site is currently an old v
 
 # Featured Works
 <a href="https://github.com/acomarcho/kataBaku">kataBaku</a>:  A website for Indonesian people to study the correct spelling of words.
-<a href="https://github.com/acomarcho/pomodoro">Pomodoro</a>: A minimalist Pomodoro timer with an executable available for Windows.
+
+<a href="https://github.com/acomarcho/pomodoro">pomodoro</a>: A minimalist Pomodoro timer with an executable available for Windows.
 
 
 
