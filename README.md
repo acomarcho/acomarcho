@@ -19,7 +19,7 @@ I'm passionate to learn new stuffs and also teach others. I have been teaching h
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 
 # Homepage and Portfolio
-You can visit me at https://acomarcho.github.io/. The site is currently an old version of it as I'm currently remaking it from scratch.
+You can visit me at https://acomarcho.github.io/. Be wary that the site is still a work in project.
 
 # Featured Works
 <a href="https://github.com/acomarcho/kataBaku">kataBaku</a>:  A website for Indonesian people to study the correct spelling of words.
