@@ -26,6 +26,6 @@ You can visit me at https://acomarcho.github.io/. Be wary that the site is still
 
 <a href="https://github.com/acomarcho/pomodoro">pomodoro</a>: A minimalist Pomodoro timer with an executable available for Windows.
 
-
+<a href="https://github.com/acomarcho/dailies">dailies</a>: A minimalist and simple web-based daily to-do list manager.
 
 	
