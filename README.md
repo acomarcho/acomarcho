@@ -29,4 +29,6 @@ You can visit me at https://acomarcho.github.io/. Be wary that the site is still
 <a href="https://github.com/acomarcho/dailies">dailies</a>: A minimalist and simple web-based daily to-do list manager.
 
 <a href="https://github.com/acomarcho/init-paginator">init-paginator</a>: A paginator for to see the profile of HMIF 20. Made with React.
+
+<a href="https://github.com/acomarcho/edunex-extension">edunex-extension</a>: A Chrome extension that allows you to interact with course contents easily.
 	
