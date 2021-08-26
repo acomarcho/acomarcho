@@ -3,7 +3,7 @@ My name's Marchotridyo. I'm an undergraduate student currently enrolling informa
 
 I'm passionate to learn new stuffs and also teach others. I have been teaching high-school and basic undergraduate mathematics and physics for a long time. In the programming world, I have quite a bit of interest in web development and in competitive programming.
 # Tech Stack
-### Technologies I'm comfortable with
+### Technologies I'm comfortable with (ones that I have > 40 hours spent on each)
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
