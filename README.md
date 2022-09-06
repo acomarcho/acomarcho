@@ -32,7 +32,7 @@ You can visit me at https://www.marcho.site. Be wary that the site is still a wo
 # Featured Projects
 <a href="https://github.com/acomarcho/codykit-web">codykit-web</a>: Website for Cody Kit - The first coding based learning toy in Indonesia. Made with React. You can access the website at <a href="https://codykit.id/">here</a>.
 
-<a href="https://github.com/acomarcho/pvt-web-app">pvt-web-abb</a>: A web application for Psychomotor Vigilance Task (PVT) test. This is a project for a lecturer in my university who is currently doing research on PVT tests. It is a fullstack web application made in Next.JS, with JWT authentication and integration to Google Sheets. You can access it <a href="https://pvt-online-v092022.vercel.app/">here</a>.
+<a href="https://github.com/acomarcho/pvt-web-app">pvt-web-app</a>: A web application for Psychomotor Vigilance Task (PVT) test. This is a project for a lecturer in my university who is currently doing research on PVT tests. It is a fullstack web application made in Next.JS, with JWT authentication and integration to Google Sheets. You can access it <a href="https://pvt-online-v092022.vercel.app/">here</a>.
 
 # Featured Mini Projects
 <a href="https://github.com/acomarcho/kataBaku">kataBaku</a>:  A website for Indonesian people to study the correct spelling of words.
