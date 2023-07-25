@@ -27,7 +27,7 @@ I'm passionate to learn new stuffs and also teach others. I have been teaching h
 ### Technologies that I'm planning to learn
 
 # Homepage and Portfolio
-You can visit me at https://www.marcho.site. Be wary that the site is still a work in project.
+You can visit me at https://marchotridyo.com. I also write blog posts there!
 
 # Featured Projects
 <a href="https://github.com/acomarcho/codykit-web">codykit-web</a>: Website for Cody Kit - The first coding based learning toy in Indonesia. Made with React. You can access the website at <a href="https://codykit.id/">here</a>.
