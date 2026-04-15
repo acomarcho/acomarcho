@@ -36,7 +36,7 @@ Top Graduate of [Institut Teknologi Bandung](https://itb.ac.id) (3.99 / 4.00 CGP
 - Migrated Vue 3 CLI + Babel → Vite: **30% smaller bundle**, **80% faster builds**, fixed 232 ESLint errors along the way.
 - Built MarinaDocs frontend — 6+ pages, DnD filesystem, streaming chatbot events, PDF preview, full Korean/English i18n, headless a11y-first components.
 
-### Live Play Mobile — Backend Engineer
+### [Live Play Mobile](https://www.liveplaymobile.com/) — Backend Engineer
 
 - Sole backend engineer on a live bingo game with complex side-bets, third-party casino integrations, serving **~1k+ concurrent users**.
 - Wrote the math models + Monte Carlo simulations — **>1M rounds simulated in under 10s** — to prove RTP matches casino targets.
@@ -44,7 +44,7 @@ Top Graduate of [Institut Teknologi Bandung](https://itb.ac.id) (3.99 / 4.00 CGP
 - Cut DynamoDB monthly cost by **~30%** by tuning RCU/WCU.
 - Made Serverless deploys **~2× faster** via shared Lambda layers and caching.
 
-### [KinderCastle Indonesia](https://kindercastle.id) — Middle Software Engineer (Full-stack, AI, Mobile)
+### [KinderCastle Indonesia](https://kindercastle.co.id) — Middle Software Engineer (Full-stack, AI, Mobile)
 
 - Built the Xendit-integrated subscription system (late fees, overtime, leaves, churn) — replaced manual tracking, **~20× operational speedup** across 500+ children daily.
 - Shipped automated daily revenue recognition from child attendances — **500+ journal entries/day**, zero manual input.
