@@ -1,47 +1,95 @@
-# Welcome to My Profile!
-My name's Marchotridyo. I'm an undergraduate student currently enrolling informatics in Bandung Institute of Technology, a university located in Bandung, Indonesia.
+# Marcho Tridyo
 
-I'm passionate to learn new stuffs and also teach others. I have been teaching high-school and basic undergraduate mathematics and physics for a long time. In the programming world, I have quite a bit of interest in web development and in competitive programming. Lately, I've been tinkering with design too, especially with Figma and Illustrator.
+**Senior Full Stack Engineer — LLM & AI Systems @ [Novo AI](https://heynovo.ai)**
 
+Building AI-integrated systems that automate insurance claims, pre-authorization, and retrospective case reviews. Previously Technical Lead at MarinaChain, full-stack/mobile/AI at KinderCastle, backend at Live Play Mobile, and full-stack at Pintarnya.
 
-# Tech Stack
-### Technologies I'm comfortable with (ones that I have > 40 hours spent on each)
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+Top Graduate of [Institut Teknologi Bandung](https://itb.ac.id) (3.99 / 4.00 CGPA), Informatics '20.
 
-### Technologies I know how to use but don't use a lot
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+---
 
-### Technologies that I'm currently learning
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+## What I build
 
+- **AI & LLM systems** — medical OCR pipelines that understand context (not just read text), agentic workflows aware of ICD-10, ICD-10-PCS, HCPCS, DRG, TOSP, Aetna CPB, and EviCore Cigna guidelines, RAG over vector DBs, and AI-first error triaging wired to Sentry + traces.
+- **Full-stack products** — React / Next.js / Vue on the frontend; Node, Go, Python (FastAPI, Django, Express) on the backend; PostgreSQL, MongoDB, Redis, DynamoDB, Elasticsearch, Milvus for storage.
+- **Mobile apps** — Flutter (Bloc) and React Native, with clean-architecture patterns across data sources, repositories, use cases, and widgets.
+- **Cloud & DevOps** — AWS (EC2, RDS, ElastiCache, Lambda, S3, CloudFront, Amplify), GCP (GKE, Cloud Run), DigitalOcean, Cloudflare, Docker, Kubernetes, CI/CD with GitHub Actions, OpenObserve for observability.
 
-### Technologies that I'm planning to learn
+---
 
-# Homepage and Portfolio
-You can visit me at https://marchotridyo.com. I also write blog posts there!
+## Selected highlights
 
-# Featured Projects
-<a href="https://github.com/acomarcho/codykit-web">codykit-web</a>: Website for Cody Kit - The first coding based learning toy in Indonesia. Made with React. You can access the website at <a href="https://codykit.id/">here</a>.
+### [Novo AI](https://heynovo.ai) — Senior Full Stack Engineer (LLM & AI Systems)
 
-<a href="https://github.com/acomarcho/pvt-web-app">pvt-web-app</a>: A web application for Psychomotor Vigilance Task (PVT) test. This is a project for a lecturer in my university who is currently doing research on PVT tests. It is a fullstack web application made in Next.JS, with JWT authentication and integration to Google Sheets. You can access it <a href="https://pvt-online-v092022.vercel.app/">here</a>.
+- Researched 10+ OCR models for handwritten medical documents; shipped a context-aware approach that lifted test pass rate from **65% → 90%+**.
+- Built a multi-agent pipeline for insurance claim / pre-auth / retrospective review, handling **1000+ documents daily** (including 50+ page invoices) with medical-guideline awareness.
+- Improved line-item extraction across long invoices — reliable tax/discount distribution without double entries — from **70% → 92.5%** on tests.
+- Shipped an AI-first triage system wiring Sentry, traces, logs, and customer feedback into agent skills, making bug-ticket creation **~10× faster**.
 
-# Featured Mini Projects
-<a href="https://github.com/acomarcho/kataBaku">kataBaku</a>:  A website for Indonesian people to study the correct spelling of words.
+### [MarinaChain](https://marinachain.io) — Technical Lead (BE/FE/ML/DevOps)
 
-<a href="https://github.com/acomarcho/dailywins-FE">dailyWins</a>: A daily wins and goal setter for the next day fullstack web application made with PERN stack.
+- Led a cross-functional team of 4 (FE, BE, ML), ran 1:1s, ran hiring loops, scoped sprint work.
+- Migrated all microservices to AWS (EC2, RDS, ElastiCache, S3, CloudFront, Lambda).
+- Cut monthly AWS billing by **~40%** via right-sizing + EC2/RDS savings plans.
+- Stood up centralized observability across **7+ services** with OpenObserve.
+- Shipped CI/CD for every microservice via GitHub Actions + Docker — **~10× faster** deploys vs manual SSH.
+- Migrated Vue 3 CLI + Babel → Vite: **30% smaller bundle**, **80% faster builds**, fixed 232 ESLint errors along the way.
+- Built MarinaDocs frontend — 6+ pages, DnD filesystem, streaming chatbot events, PDF preview, full Korean/English i18n, headless a11y-first components.
 
-<a href="https://github.com/acomarcho/mengenal-spartans">mengenal-spartans</a>: A game made to help IF'20 and STI'20 complete SPARTA with good marks. Made with React.
+### Live Play Mobile — Backend Engineer
 
-<a href="https://github.com/acomarcho/init-paginator">init-paginator</a>: A paginator for to see the profile of HMIF 20. Made with React.
+- Sole backend engineer on a live bingo game with complex side-bets, third-party casino integrations, serving **~1k+ concurrent users**.
+- Wrote the math models + Monte Carlo simulations — **>1M rounds simulated in under 10s** — to prove RTP matches casino targets.
+- Shipped game quests generating **$15k+/day** and **$12k+/day** in in-game revenue.
+- Cut DynamoDB monthly cost by **~30%** by tuning RCU/WCU.
+- Made Serverless deploys **~2× faster** via shared Lambda layers and caching.
 
-<a href="https://github.com/acomarcho/edunex-extension">edunex-extension</a>: A Chrome extension that allows you to interact with course contents easily.
-	
+### [KinderCastle Indonesia](https://kindercastle.id) — Middle Software Engineer (Full-stack, AI, Mobile)
+
+- Built the Xendit-integrated subscription system (late fees, overtime, leaves, churn) — replaced manual tracking, **~20× operational speedup** across 500+ children daily.
+- Shipped automated daily revenue recognition from child attendances — **500+ journal entries/day**, zero manual input.
+- Built an AI CV parser (vision LLMs) — HR went from **weeks → minutes** on 1000+ CVs.
+- Built an internal RAG + multimodal chatbot for daily staff use.
+
+### [Pintarnya](https://pintarnya.com) — Software Engineer (Fullstack)
+
+- Designed Pintarnya AI CV Review — LLM + OCR + multimodal — serving **~10k CV reviews/month** at low per-CV cost.
+- Migrated frontend from Cloud Run → GKE, **cutting cost by 2×+**.
+- Solved race conditions in money-handling services (Cari Cuan, Cari Promo) and integrated affiliate schemes with Dynata and Toluna.
+- Cut DB load **~8×** via Redis caching + bulk updates.
+- Earlier, tuned Pintarnya's job-search query: DB CPU **90% → <50%** — bridge fix before the Elasticsearch migration.
+
+---
+
+## Toolbelt
+
+**Languages** &nbsp;·&nbsp; TypeScript · Go · Python · Dart · Ruby · Haskell
+
+**Frontend** &nbsp;·&nbsp; React · Next.js · Vue 3 · Pinia · TanStack Query · Tailwind · Storybook · Cypress
+
+**Backend** &nbsp;·&nbsp; Node (Express) · Go · FastAPI · Django / DRF · SQLAlchemy · Sequelize · Celery
+
+**Mobile** &nbsp;·&nbsp; Flutter (Bloc) · React Native
+
+**AI / ML** &nbsp;·&nbsp; OpenAI API · LangChain · ReAct agents · RAG · Milvus · OCR pipelines · multimodal LLMs
+
+**Data** &nbsp;·&nbsp; PostgreSQL · MySQL · MongoDB · DynamoDB · Redis · Elasticsearch
+
+**Cloud / DevOps** &nbsp;·&nbsp; AWS · GCP (GKE, Cloud Run) · DigitalOcean · Cloudflare · Docker · Kubernetes · GitHub Actions · Caddy · Nginx · OpenObserve
+
+---
+
+## Side projects
+
+- **Sugarsmith.co** — Shopify + Resend storefront for a Singapore client selling Sanrio macarons.
+- **Daily Wins** — React + Express + Postgres app for tracking daily wins and tomorrow's goals, JWT auth.
+- **KataBaku** — vanilla JS study tool for Indonesian UTBK pronunciation prep.
+- **Psychomotor Vigilance Task Test** — Next.js + Google Sheets API for running and storing PVT tests.
+- **Samuel Cahyawijaya's personal site** — customized al-folio Jekyll template.
+
+---
+
+## Elsewhere
+
+- LinkedIn — [marchotridyo](https://www.linkedin.com/in/marchotridyo/)
+- GitHub — [@acomarcho](https://github.com/acomarcho)
