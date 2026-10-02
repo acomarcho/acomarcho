@@ -1,10 +1,10 @@
-# Marcho Tridyo
+# Marchotridyo
+
+Top Graduate of [Institut Teknologi Bandung](https://itb.ac.id) (3.99 / 4.00 CGPA), Informatics '20.
 
 **Senior Full Stack Engineer — LLM & AI Systems @ [Novo AI](https://heynovo.ai)**
 
 Building AI-integrated systems that automate insurance claims, pre-authorization, and retrospective case reviews. Previously Technical Lead at MarinaChain, full-stack/mobile/AI at KinderCastle, backend at Live Play Mobile, and full-stack at Pintarnya.
-
-Top Graduate of [Institut Teknologi Bandung](https://itb.ac.id) (3.99 / 4.00 CGPA), Informatics '20.
 
 ---
 
